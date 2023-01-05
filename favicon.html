@@ -1,0 +1,57 @@
+Attributes of forms: 3 
+1. action : which page should open on click submit
+2. target : next page should open in same tab or new tab
+3. method : get and post
+
+favicon: symbol for your webpage (logo for tab of your webpage)
+
+
+<html>
+    <head>
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+        <title> Forms </title>
+        </head>
+    <body style="background:radial-gradient(red,yellow)">
+        <form > 
+            <fieldset>
+                <legend style="text-align:center;">Subscription Form</legend>
+                <label for="Name"> Name: </label>
+                <input type="text" id="Name" name="Name" value="Your Name" required> <br>
+                <label for="Email"> Email ID: </label>
+                <input type="email" id="Email" name="Email"
+                value="abc@gmail.com"><br>
+                <label for="Password"> Password: </label>
+                <input type="password" id="Password"             name="Password" value="Your Password"><br>
+                <label for="gender">Select your Gender: </label>
+                <input type="radio" id="gender" name="Gender" value="Male">Male<br>
+                <input type="radio" id="gender" name="Gender" value="female">Female<br>
+                 <input type="radio" id="gender" name="Gender" value="trans">Transgender<br>
+
+                <label for="vehicle">Select your Vehicle: </label>
+                <input type="checkbox" id="vehicle" name="Vehicle" value="SUV">SUV<br>
+                <input type="checkbox" id="vehicle" name="Vehicle" value="Sedan">Sedan<br>
+                <input type="checkbox" id="vehicle" name="Vehicle" value="Jeep">Jeep<br>
+                <input type="checkbox" id="vehicle" name="Vehicle" value="cycle">cycle<br>
+                <label for="dob">Date of Birth: </label>
+                <input type="date" id="dob" name="dob">
+                <br>
+                <label for="color">Favourite Color: </label>
+                <input type="color" id="color" name="color"><br>
+<label for="hobby">Hobbies</label>
+<select id="hobby" name="hobby">
+    <option value="Cooking">Cooking</option>
+    <option value="singing">Singing</option>
+    <option value="Travelling">Travelling</option>
+</select>
+<br>
+<label for="addr">Address: </label>
+<textarea id="addr" name="addr" rows="4" cols="30">
+Enter your permanent address</textarea><br>
+
+                                            <input type="submit" value="Submit">
+                                            <br>
+                                            
+        <button type="button">Click me!</button>
+            </fieldset>
+                </form>
+            </body>

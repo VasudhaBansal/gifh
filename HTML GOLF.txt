@@ -1,0 +1,75 @@
+<html>
+    <head>
+          <style>
+            div.sticky {
+  
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+
+} 
+
+table, th, td {
+  border:1px solid black;
+} 
+footer {
+ text-align: center;
+  padding: 3px;
+  background-color: lightgreen;
+  color: white;
+}
+</style>
+        </head>
+        <body>
+        
+          
+           
+            <h1 style="color:lightgreen;font-size:40px;text-align:center">Golf ⛳ </h1 >
+            
+            
+            <img src="https://image.deemples.com/wp-content/uploads/2022/05/top-10-greatest-golfers-of-all-time-jack-nicklaus-pic.jpg" height="150"  width="550"></img>      
+            <h2 style="color:green;font-size:40px;text-align:center;font-family:cursive"> What is Golf? </h2>
+
+            <nav><div class="sticky">
+  <a href="https://en.wikipedia.org/wiki/Golf">About it</a> |
+  <a href="https://golffanatics.com/?gclid=CjwKCAiAkrWdBhBkEiwAZ9cdcPvF2V-QKiLtRthaJTms1911ATGQA2KZRy7qsrGB5NO04_bIl346iBoCxMYQAvD_BwE">Lessons</a> |
+  <a href="https://www.dubaigolf.com/contact/">Contact us </a> |
+</div></nav>
+
+
+       
+        <p style="color:lightgreen;font-size:20px;font-family:cursive">golf, a cross-country game in which a player strikes a small ball with various clubs from a series of starting points (teeing grounds) into a series of holes on a course. The player who holes his ball in the fewest strokes wins</p>
+          
+          <h3 style="color:green;font-size:40px;text-align:center;font-family:cursive"> How is golf played and scored? </h2>
+           
+           <p style="color:lightgreen;font-size:20px;font-family:cursive">  You simply play each golf hole, then mark the total number of strokes taken. At the end of a round, your gross score (i.e. all shots) is totalled, and your handicap is deducted to calculate the nett score. The player who completes the round with the least nett strokes is the winner</p>
+           <h4 style="color:green;font-size:40px;text-align:center;font-family:cursive">
+               History of golf </h4>
+
+   <p style="color:lightgreen;font-size:20px;font-family:cursive">Golf originated from a game played on the eastern coast of Scotland, in an area close to the royal capital of Edinburgh.In those early days players would attempt to hit a pebble over sand dunes and around tracks using a bent stick or club</p>
+
+   <h5 style="color:green;font-size:40px;text-align:center;font-family:cursive">When and where did golf originate?</h5>
+
+   <p style="color:lightgreen;font-size:20px;font-family:cursive"> However, it is generally accepted that modern golf developed in Scotland from the Middle Ages onwards. The game did not find international popularity until the late 19th century, when it spread into the rest of the United Kingdom and then to the British Empire and the United States </p>
+   <p> The person witch has the most points in the world:</p>
+<table style="width:100%">
+  <tr>
+    <td>Name:</td>
+    <td>Points</td>
+  </tr>
+  <tr>
+    <td>R. McIlroy Rory McIlroy</td>
+    <td>8.921</td>
+    <tr>
+        </table>
+        
+
+
+<footer>
+<a href="https://www.google.com/gmail/about/"> @Maham </a>
+</footer>
+
+
+ 
